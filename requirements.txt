@@ -1,9 +1,7 @@
 numpy
 Keras
-Keras-Applications
 Keras-Preprocessing
 imutils
 opencv-contrib-python
 opencv-python
-h5py
 gunicorn
